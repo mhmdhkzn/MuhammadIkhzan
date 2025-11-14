@@ -83,7 +83,7 @@
             <!-- CARD 1 -->
             <div class="col-md-6">
                 <div class="glass-card text-white text-center">
-                    <img src="{{ asset('images/zann.JPG') }}" class="profile-img" alt="Foto">
+                    <img src="{{ asset('images/zann.jpg') }}" class="profile-img" alt="Foto">
 
                     <h4 class="fw-bold">MUHAMMAD IKHZAN</h4>
                     <p class="mb-4">2301010083</p>
