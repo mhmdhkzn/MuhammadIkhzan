@@ -63,11 +63,11 @@
                 </ul>
 
                 <span class="navbar-text me-3">
-                    2301010138 - L. M. ARANTA THIAR ELKANTA RIZKY ILLAHI (GENAP)
+                    2301010083 - MUHAMMAD IKHZAN (GANJIL)
                 </span>
 
                 <span class="navbar-text">
-                    2301010097 - ARTHUR EMANUEL DEKKO (GANJIL)
+                    2301010130 - I MADE ARYA WIBAWA (GENAP)
                 </span>
             </div>
         </div>
@@ -75,7 +75,7 @@
 
     <!-- HEADER -->
     <div class="header-bg mt-5 pt-5">
-        <h2>Halaman ini dibuat oleh 2301010138 - L. M. ARANTA THIAR ELKANTA RIZKY ILLAHI</h2>
+        <h2>Halaman ini dibuat oleh 2301010083 - MUHAMMAD IKHZAN</h2>
     </div>
 
     <!-- GRID GAMBAR -->
