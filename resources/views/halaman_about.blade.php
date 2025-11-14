@@ -12,6 +12,7 @@
             background-size: cover;
             background-position: center;
             background-attachment: fixed;
+            font-family: "Poppins", sans-serif;
         }
 
         .navbar-custom {
@@ -19,44 +20,56 @@
             backdrop-filter: blur(6px);
         }
 
+        .nav-link {
+            color: white !important;
+            font-weight: 500;
+            margin-right: 20px;
+        }
+
         .glass-card {
             background: rgba(255, 255, 255, 0.15);
-            border-radius: 20px;
-            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
-            backdrop-filter: blur(10px);
-            padding: 30px;
+            border-radius: 25px;
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
+            backdrop-filter: blur(12px);
+            padding: 40px 20px;
         }
 
         .profile-img {
             width: 180px;
             height: 180px;
             border-radius: 50%;
-            border: 5px solid rgba(255, 255, 255, 0.4);
+            border: 6px solid rgba(255, 255, 255, 0.5);
             object-fit: cover;
+            margin-bottom: 20px;
         }
 
         .bio-box {
-            background: rgba(255, 255, 255, 0.25);
+            background: rgba(255, 255, 255, 0.30);
             padding: 20px;
             border-radius: 15px;
-            backdrop-filter: blur(5px);
+            backdrop-filter: blur(4px);
         }
     </style>
-
 </head>
 <body>
 
     <!-- NAVBAR -->
     <nav class="navbar navbar-expand-lg navbar-dark navbar-custom px-4">
-    <a href="{{ route('home') }}">Home</a>
-    <a href="{{ route('about') }}">About</a>
+        <a class="navbar-brand text-white fw-bold">Profile Page</a>
 
+        <div class="collapse navbar-collapse">
+            <ul class="navbar-nav me-auto">
+                <li class="nav-item"><a class="nav-link" href="{{ route('home') }}">Home</a></li>
+                <li class="nav-item"><a class="nav-link" href="{{ route('about') }}">About</a></li>
+            </ul>
 
-        <div class="ms-auto text-white fw-semibold">
-            2301010130 - I MADE ARYA WIBAWA (GENAP)
+            <div class="text-white fw-semibold">
+                2301010130 - I MADE ARYA WIBAWA (GENAP)
+            </div>
         </div>
     </nav>
 
+    <!-- TITLE -->
     <div class="container text-center text-white mt-5">
         <h2 class="fw-bold">
             Halaman ini dibuat oleh: 2301010130 - I MADE ARYA WIBAWA (GENAP)
@@ -65,12 +78,12 @@
 
     <!-- PROFILE SECTION -->
     <div class="container mt-5">
-        <div class="row g-4">
+        <div class="row g-5">
 
             <!-- CARD 1 -->
             <div class="col-md-6">
                 <div class="glass-card text-white text-center">
-                <img src="{{ asset('images/zan.JPG') }}" alt="Foto">
+                    <img src="{{ asset('images/zan.JPG') }}" class="profile-img" alt="Foto">
 
                     <h4 class="fw-bold">MUHAMMAD IKHZAN</h4>
                     <p class="mb-4">2301010083</p>
@@ -87,7 +100,7 @@
             <!-- CARD 2 -->
             <div class="col-md-6">
                 <div class="glass-card text-white text-center">
-                <img src="{{ asset('images/bawe.heic') }}" alt="Foto">
+                    <img src="{{ asset('images/bawe.heic') }}" class="profile-img" alt="Foto">
 
                     <h4 class="fw-bold">I MADE ARYA WIBAWA</h4>
                     <p class="mb-4">2301010130</p>
@@ -103,7 +116,6 @@
 
         </div>
     </div>
-
 
 </body>
 </html>
