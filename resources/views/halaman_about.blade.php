@@ -100,7 +100,7 @@
             <!-- CARD 2 -->
             <div class="col-md-6">
                 <div class="glass-card text-white text-center">
-                    <img src="{{ asset('images/bawee.heic') }}" class="profile-img" alt="Foto">
+                    <img src="{{ asset('images/bawee.jpg') }}" class="profile-img" alt="Foto">
 
                     <h4 class="fw-bold">I MADE ARYA WIBAWA</h4>
                     <p class="mb-4">2301010130</p>
