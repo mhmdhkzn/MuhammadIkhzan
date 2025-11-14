@@ -90,7 +90,7 @@
     <div class="navbar">
         <div>
             <a href="#">Home</a>
-            <a href="#">About</a>
+            <a class="nav-link" href="{{ route('about') }}">About</a>
         </div>
         <div>2301010083 - MUHAMMAD IKHZAN (GANJIL)</div>
         <div>2301010130 - I MADE ARYA WIBAWA (GENAP)</div>
