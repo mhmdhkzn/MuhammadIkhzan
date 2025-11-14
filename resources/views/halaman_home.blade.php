@@ -8,7 +8,7 @@
         body {
             margin: 0;
             font-family: Arial, sans-serif;
-            background: url('https://images.unsplash.com/photo-1507525428034-b723cf961d3e') no-repeat center/cover fixed;
+            background: url('{{ asset('images/bckground.webp') }}') no-repeat center/cover fixed;
             color: white;
         }
 
