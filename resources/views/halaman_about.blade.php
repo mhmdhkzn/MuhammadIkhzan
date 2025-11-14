@@ -97,6 +97,7 @@
                 </div>
             </div>
 
+            
             <!-- CARD 2 -->
             <div class="col-md-6">
                 <div class="glass-card text-white text-center">
