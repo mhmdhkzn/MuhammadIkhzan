@@ -2,10 +2,6 @@
 
 use Illuminate\Support\Facades\Route;
 
-Route::get('/', function () {
-    return view('halaman home');
-});
-
-Route::get('/', function () {
-    return view('halaman about');
-});
+Route::get('/home', function () {
+    return view('halaman_home');
+})->name('home');
