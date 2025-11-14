@@ -51,13 +51,13 @@
         <a class="navbar-brand fw-bold text-white" href="#">Home</a>
         <a class="navbar-brand fw-bold text-white ms-3" href="#">About</a>
         <div class="ms-auto text-white fw-semibold">
-            2301010097 - ARTHUR EMANUEL DEKKO (GANJIL)
+            2301010130 - I MADE ARYA WIBAWA (GENAP)
         </div>
     </nav>
 
     <div class="container text-center text-white mt-5">
         <h2 class="fw-bold">
-            Halaman ini dibuat oleh: 2301010097 - ARTHUR EMANUEL DEKKO (GANJIL)
+            Halaman ini dibuat oleh: 2301010130 - I MADE ARYA WIBAWA (GENAP)
         </h2>
     </div>
 
@@ -70,8 +70,8 @@
                 <div class="glass-card text-white text-center">
                     <img src="https://i.imgur.com/ymuWvYg.jpeg" class="profile-img mb-3">
 
-                    <h4 class="fw-bold">L. M. ARANTA THIAR ELKANTA RIZKY ILLAHI</h4>
-                    <p class="mb-4">2301010138</p>
+                    <h4 class="fw-bold">MUHAMMAD IKHZAN</h4>
+                    <p class="mb-4">2301010083</p>
 
                     <div class="bio-box text-start mx-auto" style="max-width: 400px;">
                         <strong>BIO</strong>
@@ -87,8 +87,8 @@
                 <div class="glass-card text-white text-center">
                     <img src="https://i.imgur.com/k2M7K1L.jpeg" class="profile-img mb-3">
 
-                    <h4 class="fw-bold">ARTHUR EMANUEL DEKKO</h4>
-                    <p class="mb-4">2301010097</p>
+                    <h4 class="fw-bold">I MADE ARYA WIBAWA</h4>
+                    <p class="mb-4">2301010130</p>
 
                     <div class="bio-box text-start mx-auto" style="max-width: 400px;">
                         <strong>BIO</strong>
