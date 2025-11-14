@@ -20,6 +20,7 @@
             backdrop-filter: blur(6px);
         }
 
+        
         .nav-link {
             color: white !important;
             font-weight: 500;
