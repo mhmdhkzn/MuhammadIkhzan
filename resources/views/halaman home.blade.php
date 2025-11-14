@@ -105,47 +105,48 @@
     <div class="container">
 
         <div class="card">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Acropolis_of_Athens_2019.jpg">
+            <img src="{{ asset('images/acropolis.jpg') }}" alt="Foto">
+
             <div class="card-title">Acropolis, Yunani</div>
         </div>
 
         <div class="card">
-            <img src="https://images.unsplash.com/photo-1504805572947-34fad45aed93">
+            <img src="{{ asset('images/shibuya.jpg') }}" alt="Foto">
             <div class="card-title">Shibuya, Jepang</div>
         </div>
 
         <div class="card">
-            <img src="https://images.unsplash.com/photo-1505739772430-262fb57cddc8">
+            <img src="{{ asset('images/cappadocia.webp') }}" alt="Foto">
             <div class="card-title">Cappadocia, Turki</div>
         </div>
 
         <div class="card">
-            <img src="https://images.unsplash.com/photo-1501785888041-af3ef285b470">
+            <img src="{{ asset('images/giza.webp') }}" alt="Foto">
             <div class="card-title">Giza, Mesir</div>
         </div>
 
         <div class="card">
-            <img src="https://images.unsplash.com/photo-1541417904950-b855846fe074">
+            <img src="{{ asset('images/garuda.jpg') }}" alt="Foto">
             <div class="card-title">Garuda Wisnu Kencana, Bali</div>
         </div>
 
         <div class="card">
-            <img src="https://images.unsplash.com/photo-1454496522488-7a8e488e8606">
+            <img src="{{ asset('images/huayana.jpg') }}" alt="Foto">
             <div class="card-title">Huayana, Peru</div>
         </div>
 
         <div class="card">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Palm_Jumeirah%2C_Dubai%2C_United_Arab_Emirates.jpg">
+            <img src="{{ asset('images/jumeirah.jpg') }}" alt="Foto">
             <div class="card-title">Jumeirah, Abu Dhabi</div>
         </div>
 
         <div class="card">
-            <img src="https://images.unsplash.com/photo-1528476513691-07fdbf533b0a">
+            <img src="{{ asset('images/newyork.jpg') }}" alt="Foto">
             <div class="card-title">New York, US</div>
         </div>
 
         <div class="card">
-            <img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d">
+            <img src="{{ asset('images/niagara.jpg') }}" alt="Foto">
             <div class="card-title">Niagara, Kanada</div>
         </div>
 
