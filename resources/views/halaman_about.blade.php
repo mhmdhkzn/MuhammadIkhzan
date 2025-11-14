@@ -83,7 +83,7 @@
             <!-- CARD 1 -->
             <div class="col-md-6">
                 <div class="glass-card text-white text-center">
-                    <img src="{{ asset('images/zan.JPG') }}" class="profile-img" alt="Foto">
+                    <img src="{{ asset('images/zan.jpg') }}" class="profile-img" alt="Foto">
 
                     <h4 class="fw-bold">MUHAMMAD IKHZAN</h4>
                     <p class="mb-4">2301010083</p>
@@ -100,7 +100,7 @@
             <!-- CARD 2 -->
             <div class="col-md-6">
                 <div class="glass-card text-white text-center">
-                    <img src="{{ asset('images/bawe.heic') }}" class="profile-img" alt="Foto">
+                    <img src="{{ asset('images/bawe.jpg') }}" class="profile-img" alt="Foto">
 
                     <h4 class="fw-bold">I MADE ARYA WIBAWA</h4>
                     <p class="mb-4">2301010130</p>
