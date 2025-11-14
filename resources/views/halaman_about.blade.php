@@ -91,7 +91,7 @@
                     <div class="bio-box text-start mx-auto" style="max-width: 400px;">
                         <strong>BIO</strong>
                         <p class="mt-2">
-                            professional back end developer and occasionally AK47 bringer
+                            professional back end developer and occasionally AK47 bringer (zanDev)
                         </p>
                     </div>
                 </div>
@@ -109,7 +109,7 @@
                     <div class="bio-box text-start mx-auto" style="max-width: 400px;">
                         <strong>BIO</strong>
                         <p class="mt-2">
-                            Designing front-end is my passion sir 💖
+                            Designing front-end is my passion sir 💖 (baweDev)
                         </p>
                     </div>
                 </div>
