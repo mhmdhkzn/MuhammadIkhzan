@@ -89,7 +89,7 @@
     <!-- NAVBAR -->
     <div class="navbar">
         <div>
-            <a href="#">Home</a>
+            <a class="nav-link" href="{{ route('home') }}">Home</a>
             <a class="nav-link" href="{{ route('about') }}">About</a>
         </div>
         <div>2301010083 - MUHAMMAD IKHZAN (GANJIL)</div>
