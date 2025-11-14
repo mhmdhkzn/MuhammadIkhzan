@@ -70,7 +70,7 @@
             <!-- CARD 1 -->
             <div class="col-md-6">
                 <div class="glass-card text-white text-center">
-                    <img src="https://i.imgur.com/ymuWvYg.jpeg" class="profile-img mb-3">
+                <img src="{{ asset('images/zan.JPG') }}" alt="Foto">
 
                     <h4 class="fw-bold">MUHAMMAD IKHZAN</h4>
                     <p class="mb-4">2301010083</p>
@@ -87,7 +87,7 @@
             <!-- CARD 2 -->
             <div class="col-md-6">
                 <div class="glass-card text-white text-center">
-                    <img src="https://i.imgur.com/k2M7K1L.jpeg" class="profile-img mb-3">
+                <img src="{{ asset('images/bawe.heic') }}" alt="Foto">
 
                     <h4 class="fw-bold">I MADE ARYA WIBAWA</h4>
                     <p class="mb-4">2301010130</p>
