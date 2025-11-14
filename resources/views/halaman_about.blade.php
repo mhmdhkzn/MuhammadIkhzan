@@ -48,8 +48,9 @@
 
     <!-- NAVBAR -->
     <nav class="navbar navbar-expand-lg navbar-dark navbar-custom px-4">
-        <a class="navbar-brand fw-bold text-white" href="#">Home</a>
-        <a class="navbar-brand fw-bold text-white ms-3" href="#">About</a>
+    <a class="navbar-brand fw-bold text-white" href="{{ route('home') }}">Home</a>
+    <a class="navbar-brand fw-bold text-white ms-3" href="#">About</a>
+
         <div class="ms-auto text-white fw-semibold">
             2301010130 - I MADE ARYA WIBAWA (GENAP)
         </div>
