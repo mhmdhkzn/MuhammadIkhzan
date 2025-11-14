@@ -8,7 +8,7 @@
 
     <style>
         body {
-            background-image: url("https://images.unsplash.com/photo-1505739776132-37b1f8ca9c89");
+            background: url('{{ asset('images/bckground.webp') }}') no-repeat center/cover fixed;
             background-size: cover;
             background-position: center;
             background-attachment: fixed;
