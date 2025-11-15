@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Halaman Wisata Dunia</title>
     <style>
+
         
         body {
             margin: 0;
@@ -12,6 +13,7 @@
             background: url('{{ asset('images/bckground.webp') }}') no-repeat center/cover fixed;
             color: white;
         }
+
 
         /* NAVBARR */
         .navbar {
@@ -87,7 +89,9 @@
 </head>
 <body>
 
+
     <!-- NAVBAR -->
+
     <div class="navbar">
         <div>
             <a class="nav-link" href="{{ route('home') }}">Home</a>
@@ -97,11 +101,13 @@
         <div>2301010130 - I MADE ARYA WIBAWA (GENAP)</div>
     </div>
 
+
     <!-- HEADER -->
     <div class="header">
         <h1>Halaman ini dibuat oleh 2301010083 - MUHAMMAD IKHZAN</h1>
     </div>
 
+    
     <!-- GRID GAMBAR -->
     <div class="container">
 
