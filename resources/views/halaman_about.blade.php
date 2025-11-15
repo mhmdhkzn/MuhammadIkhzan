@@ -6,6 +6,7 @@
     <title>Halaman Profil</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
 
+
     <style>
         body {
             background: url('{{ asset('images/bckground.webp') }}') no-repeat center/cover fixed;
@@ -53,14 +54,15 @@
 </head>
 <body>
 
-    <!-- NAVBARR -->
+
+    <!-- NAVBAR -->
     <nav class="navbar navbar-expand-lg navbar-dark navbar-custom px-4">
-        <a class="navbar-brand text-white fw-bold">Profile Page</a>
+        <a class="navbar-brand text-white fw-bold">Profile Page </a>
 
         <div class="collapse navbar-collapse">
             <ul class="navbar-nav me-auto">
-                <li class="nav-item"><a class="nav-link" href="{{ route('home') }}">Home</a></li>
-                <li class="nav-item"><a class="nav-link" href="{{ route('about') }}">About</a></li>
+                <li class="nav-item"><a class="nav-link" href="{{ route('home') }}"> Home </a></li>
+                <li class="nav-item"><a class="nav-link" href="{{ route('about') }}"> Abou t</a></li>
             </ul>
 
             <div class="text-white fw-semibold">
@@ -69,6 +71,7 @@
         </div>
     </nav>
 
+    
     <!-- TITLE -->
     <div class="container text-center text-white mt-5">
         <h2 class="fw-bold">
