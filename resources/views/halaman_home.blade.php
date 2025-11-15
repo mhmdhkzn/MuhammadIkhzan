@@ -13,7 +13,7 @@
             color: white;
         }
 
-        /* NAVBAR */
+        /* NAVBARR */
         .navbar {
             width: 100%;
             background: rgba(0,0,0,0.6);
