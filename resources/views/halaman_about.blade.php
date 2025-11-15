@@ -53,7 +53,7 @@
 </head>
 <body>
 
-    <!-- NAVBAR -->
+    <!-- NAVBARR -->
     <nav class="navbar navbar-expand-lg navbar-dark navbar-custom px-4">
         <a class="navbar-brand text-white fw-bold">Profile Page</a>
 
@@ -109,7 +109,7 @@
                     <div class="bio-box text-start mx-auto" style="max-width: 400px;">
                         <strong>BIO</strong>
                         <p class="mt-2">
-                            Designing front-end is my passion sir 💖 (baweDev)
+                            Designing front-end is my passion sir 💖 (baweDev#)
                         </p>
                     </div>
                 </div>
