@@ -6,7 +6,6 @@
     <title>Halaman Profil</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
 
-
     <style>
         body {
             background: url('{{ asset('images/bckground.webp') }}') no-repeat center/cover fixed;
@@ -56,6 +55,7 @@
 
 
     <!-- NAVBAR -->
+
     <nav class="navbar navbar-expand-lg navbar-dark navbar-custom px-4">
         <a class="navbar-brand text-white fw-bold">Profile Page </a>
 
@@ -71,13 +71,15 @@
         </div>
     </nav>
 
-    
+
+
     <!-- TITLE -->
     <div class="container text-center text-white mt-5">
         <h2 class="fw-bold">
             Halaman ini dibuat oleh: 2301010130 - I MADE ARYA WIBAWA (GENAP)
         </h2>
     </div>
+
 
     <!-- PROFILE SECTION -->
     <div class="container mt-5">
@@ -100,6 +102,7 @@
                 </div>
             </div>
 
+            
             
             <!-- CARD 2 -->
             <div class="col-md-6">
