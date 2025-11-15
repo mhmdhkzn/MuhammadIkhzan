@@ -53,14 +53,16 @@
 </head>
 <body>
 
+
     <!-- NAVBAR -->
+
     <nav class="navbar navbar-expand-lg navbar-dark navbar-custom px-4">
-        <a class="navbar-brand text-white fw-bold">Profile Page</a>
+        <a class="navbar-brand text-white fw-bold">Profile Page </a>
 
         <div class="collapse navbar-collapse">
             <ul class="navbar-nav me-auto">
-                <li class="nav-item"><a class="nav-link" href="{{ route('home') }}">Home</a></li>
-                <li class="nav-item"><a class="nav-link" href="{{ route('about') }}">About</a></li>
+                <li class="nav-item"><a class="nav-link" href="{{ route('home') }}"> Home </a></li>
+                <li class="nav-item"><a class="nav-link" href="{{ route('about') }}"> Abou t</a></li>
             </ul>
 
             <div class="text-white fw-semibold">
@@ -69,12 +71,15 @@
         </div>
     </nav>
 
+
+
     <!-- TITLE -->
     <div class="container text-center text-white mt-5">
         <h2 class="fw-bold">
             Halaman ini dibuat oleh: 2301010130 - I MADE ARYA WIBAWA (GENAP)
         </h2>
     </div>
+
 
     <!-- PROFILE SECTION -->
     <div class="container mt-5">
@@ -98,6 +103,7 @@
             </div>
 
             
+            
             <!-- CARD 2 -->
             <div class="col-md-6">
                 <div class="glass-card text-white text-center">
@@ -109,7 +115,7 @@
                     <div class="bio-box text-start mx-auto" style="max-width: 400px;">
                         <strong>BIO</strong>
                         <p class="mt-2">
-                            Designing front-end is my passion sir 💖 (baweDev)
+                            Designing front-end is my passion sir 💖 (baweDev#)
                         </p>
                     </div>
                 </div>
